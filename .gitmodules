@@ -1,3 +1,4 @@
 [submodule "test-common"]
 	path = test-common
 	url = git@github.com:kaoniqiwa/test-common.git
+	branch = v1.1
